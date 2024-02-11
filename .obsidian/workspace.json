@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "user stories.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "user stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "user stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "user stories.md"
               }
             }
           },
@@ -184,10 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "165a6bf07c1facb7",
+  "active": "21e1407f18dde155",
   "lastOpenFiles": [
     "университет/ио/09-02-2024 приведение задачи к шаблону.md",
-    "Untitled.md",
+    "user stories.md",
     "университет/ио/09-02-24 введение.md",
     "университет/ио",
     "университет/теорвер/4 часть/54 критерий хи-квадрат в случае, когда по выборке оцениваются параметры.md",
