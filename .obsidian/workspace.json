@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "eb13aa26a54d9f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "гранты.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "user stories.md",
+                "file": "гранты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "user stories.md",
+                "file": "гранты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "user stories.md"
+                "file": "гранты.md"
               }
             }
           },
@@ -184,10 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21e1407f18dde155",
+  "active": "eb13aa26a54d9f48",
   "lastOpenFiles": [
-    "университет/ио/09-02-2024 приведение задачи к шаблону.md",
     "user stories.md",
+    "гранты.md",
+    "университет/ио/09-02-2024 приведение задачи к шаблону.md",
     "университет/ио/09-02-24 введение.md",
     "университет/ио",
     "университет/теорвер/4 часть/54 критерий хи-квадрат в случае, когда по выборке оцениваются параметры.md",
@@ -221,7 +235,6 @@
     "12 правило поиска предельных вероятностей.pdf",
     "университет/теорвер/1 часть/7 способ задания цепи Маркова.md",
     "7 способ задания цепи Маркова.pdf",
-    "университет/теорвер/4 часть/65 линейная регрессия.md",
     "Pasted image 20240119115339.png",
     "университет/теорвер/4 часть/вложения/64 график~bak.20240119.114908.0.png",
     "университет/теорвер/graphs~bak.20240107.220340.0.sai2",
