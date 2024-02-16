@@ -6,8 +6,8 @@
     "style"
   ],
   "translucency": false,
-  "cssTheme": "Blue Topaz",
-  "theme": "obsidian",
+  "cssTheme": "",
+  "theme": "system",
   "accentColor": "#669bf0",
   "baseFontSizeAction": true
 }

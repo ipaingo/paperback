@@ -20,11 +20,16 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "eb13aa26a54d9f48",
+=======
+            "id": "6e267b785120c086",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "гранты.md",
                 "mode": "source",
                 "source": true
@@ -57,12 +62,16 @@
               "type": "markdown",
               "state": {
                 "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
+=======
+                "file": "университет/ио/09-02-24 введение.md",
+>>>>>>> Stashed changes
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +146,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
+=======
+                "file": "университет/ио/09-02-24 введение.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
+=======
+                "file": "университет/ио/09-02-24 введение.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +194,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md"
+=======
+                "file": "университет/ио/09-02-24 введение.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -228,12 +249,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< Updated upstream
   "active": "67a81ebdfc4ebb53",
   "lastOpenFiles": [
     "университет/ио/09-02-24 приведение задачи к шаблону.md",
     "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
     "собрание с заказчиком.md",
     "гранты.md",
+=======
+  "active": "6e267b785120c086",
+  "lastOpenFiles": [
+    "университет/ио/09-02-2024 приведение задачи к шаблону.md",
+    "Резюме. Зименкова Софья.md",
+>>>>>>> Stashed changes
     "user stories.md",
     "университет/ио/09-02-24 введение.md",
     "университет/ио",
