@@ -1,91 +1,35 @@
 {
   "main": {
-    "id": "d83b12a161c1469a",
+    "id": "b87f267aeb34af75",
     "type": "split",
     "children": [
       {
-        "id": "22f089a705282251",
+        "id": "56b5dea50bfce932",
         "type": "tabs",
         "children": [
           {
-            "id": "165a6bf07c1facb7",
+            "id": "356083f86bdd4faf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "user stories.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "eb13aa26a54d9f48",
-=======
-            "id": "6e267b785120c086",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "гранты.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "67a81ebdfc4ebb53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "3fe95f7e57b055c7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3247633c94adf8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
-=======
-                "file": "университет/ио/09-02-24 введение.md",
->>>>>>> Stashed changes
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "54c03b1ca1b190db",
+    "id": "02489f5e647ef414",
     "type": "split",
     "children": [
       {
-        "id": "8af2ac231dd1b48c",
+        "id": "61ae6b2670fefcb6",
         "type": "tabs",
         "children": [
           {
-            "id": "21e1407f18dde155",
+            "id": "9d7c2afb6c793d1c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -95,13 +39,13 @@
             }
           },
           {
-            "id": "0a0ed203f52eb43f",
+            "id": "52168010aaaef84c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -110,15 +54,7 @@
             }
           },
           {
-            "id": "d92d459e1a391ed0",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "5885b48b7adf250f",
+            "id": "60e3e89c9a562812",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -129,56 +65,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "0c7c226c226db048",
+    "id": "5e11f6597c0fa22e",
     "type": "split",
     "children": [
       {
-        "id": "df5f379d9eb993e7",
+        "id": "893ea8844e79d56f",
         "type": "tabs",
         "children": [
           {
-            "id": "628c91348190f105",
+            "id": "156e6f36b40740a3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "04cf51ef0171667c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
-=======
-                "file": "университет/ио/09-02-24 введение.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b579935168830760",
+            "id": "1b83a63c4bbe2a58",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
-=======
-                "file": "университет/ио/09-02-24 введение.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6a5c4e2e55cb1e6e",
+            "id": "1f17b8483504adb9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -189,37 +122,7 @@
             }
           },
           {
-            "id": "d1b72cdb2e8dc322",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "университет/ио/16-02-24 алгоритм прямого симплексного метода.md"
-=======
-                "file": "университет/ио/09-02-24 введение.md"
->>>>>>> Stashed changes
-              }
-            }
-          },
-          {
-            "id": "ec7d3a6ca136d0d0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "648e5a2af7f5a84b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "bb6c649b68e16fbb",
+            "id": "bcb599866d4af4e5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -229,9 +132,16 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "88f5ad4d78d2336b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,69 +150,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "67a81ebdfc4ebb53",
-  "lastOpenFiles": [
-    "университет/ио/09-02-24 приведение задачи к шаблону.md",
-    "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
-    "собрание с заказчиком.md",
-    "гранты.md",
-=======
-  "active": "6e267b785120c086",
-  "lastOpenFiles": [
-    "университет/ио/09-02-2024 приведение задачи к шаблону.md",
-    "Резюме. Зименкова Софья.md",
->>>>>>> Stashed changes
-    "user stories.md",
-    "университет/ио/09-02-24 введение.md",
-    "университет/ио",
-    "университет/теорвер/4 часть/54 критерий хи-квадрат в случае, когда по выборке оцениваются параметры.md",
-    "университет/теорвер/3 часть/50 построение доверительного интервала для среднеквадратичного отклонения и дисперсии.md",
-    "университет/теорвер/1 часть/14 теорема о предельных вероятностях.md",
-    "университет/теорвер/1 часть/вложения/14 доказательство~bak.20240121.191352.0.png",
-    "университет/теорвер/1 часть/вложения/14 доказательство~bak.20240120.190308.0.png",
-    "университет/теорвер/3 часть/49 построение доверительного интервала для мат. ожидания в случае большой выборки.md",
-    "университет/теорвер/3 часть/48 доверительный интервал для матожидания при неизвестной дисперсии нормального распределения генеральной совокупности.md",
-    "университет/теорвер/3 часть/47 доверительный интервал для матожидания при известной дис­персии нормально распределенной генеральной совокупности.md",
-    "университет/теорвер/3 часть/40 распределение Стьюдента с n степенями свободы.md",
-    "университет/теорвер/3 часть/39 распределение хи-квадрат с n степенями свободы.md",
-    "университет/теорвер/3 часть/35 свойства выборочного среднего и исправленной выборочной дисперсии для нормального распределения генеральной совокупности.md",
-    "университет/теорвер/2 часть/21 полигон.md",
-    "университет/теорвер/1 часть/12 правило поиска предельных вероятностей.md",
-    "университет/теорвер/1 часть/11 условия существования стационарного режима.md",
-    "университет/теорвер/1 часть/4 классификация состояния цепи.md",
-    "университет/теорвер/1 часть/9 переходные вероятности.md",
-    "университет/теорвер/1 часть/6 цепь Маркова и цепь Маркова с непрерывным временем.md",
-    "университет/теорвер/1 часть/8 однородные цепи Маркова.md",
-    "университет/теорвер/4 часть/52 критерий согласия.md",
-    "университет/теорвер/список вопросов теорвер 2.md",
-    "университет/теорвер/2 часть/15 выборка.md",
-    "университет/теорвер/2 часть/22 интервальный вариационный ряд.md",
-    "университет/теорвер/старое разное чужое/~$Terver.docx",
-    "22 интервальный вариационный ряд.pdf",
-    "17 гистограмма.pdf",
-    "15 выборка.pdf",
-    "50 построение доверительного интервала для среднеквадратичного отклонения и дисперсии.pdf",
-    "12 правило поиска предельных вероятностей.pdf",
-    "7 способ задания цепи Маркова.pdf",
-    "Pasted image 20240119115339.png",
-    "университет/теорвер/4 часть/вложения/64 график~bak.20240119.114908.0.png",
-    "университет/теорвер/graphs~bak.20240107.220340.0.sai2",
-    "университет/теорвер/4 часть/вложения/64 график.png",
-    "университет/теорвер/4 часть/вложения",
-    "университет/теорвер/3 часть/вложения/46 график какой-то.png",
-    "всякое/цвета.png",
-    "университет/теорвер/3 часть/вложения/41 график плотности.png",
-    "университет/теорвер/3 часть/вложения/39 график плотности.png",
-    "университет/теорвер/3 часть/вложения/40 график плотности.png"
-  ]
+  "active": "356083f86bdd4faf",
+  "lastOpenFiles": []
 }
