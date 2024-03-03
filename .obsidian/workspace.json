@@ -1,36 +1,38 @@
 {
   "main": {
-<<<<<<< Updated upstream
-    "id": "b87f267aeb34af75",
+    "id": "bad38cf1a774c596",
     "type": "split",
     "children": [
       {
-        "id": "56b5dea50bfce932",
+        "id": "65a2d7963f28d6f8",
         "type": "tabs",
         "children": [
           {
-            "id": "356083f86bdd4faf",
-=======
-    "id": "3a4d2dc87b976ee8",
-    "type": "split",
-    "children": [
-      {
-        "id": "d0d69a7dff567069",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcf299b4afed9974",
->>>>>>> Stashed changes
+            "id": "9c4be0dbd10aedb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "университет/ктп/посты/17-02-24 международные сборы.md",
-=======
-                "file": "собрание с заказчиком.md",
->>>>>>> Stashed changes
+                "file": "университет/ио/01-03-24 методы отыскания начального базисного допустимого решения.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fe5a5f7fadf9396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a685b372c17122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "университет/ио/01-03-24 методы отыскания начального базисного допустимого решения.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -41,41 +43,25 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< Updated upstream
-    "id": "02489f5e647ef414",
+    "id": "f6297345cd1e6b50",
     "type": "split",
     "children": [
       {
-        "id": "61ae6b2670fefcb6",
+        "id": "2dfdcfe4c138a251",
         "type": "tabs",
         "children": [
           {
-            "id": "9d7c2afb6c793d1c",
-=======
-    "id": "1e7a268f4b3ef3a4",
-    "type": "split",
-    "children": [
-      {
-        "id": "7e62e72a2c53e64b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ab90a0a1c79f4be",
->>>>>>> Stashed changes
+            "id": "1d64d2792f329474",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "52168010aaaef84c",
-=======
-            "id": "b0fe038ed2c6ecea",
->>>>>>> Stashed changes
+            "id": "cf3cab92755e5a93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -90,11 +76,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "60e3e89c9a562812",
-=======
-            "id": "1d61b37404eae149",
->>>>>>> Stashed changes
+            "id": "9e19ae7dd371d11c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,30 +87,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-<<<<<<< Updated upstream
-    "id": "5e11f6597c0fa22e",
+    "id": "3ea97e4f0e92ac23",
     "type": "split",
     "children": [
       {
-        "id": "893ea8844e79d56f",
+        "id": "3cb9229608dd7247",
         "type": "tabs",
         "children": [
           {
-            "id": "156e6f36b40740a3",
-=======
-    "id": "0006bd0d75663eaf",
-    "type": "split",
-    "children": [
-      {
-        "id": "9117b2fbf8a8214b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ecdeb193ad87cc90",
->>>>>>> Stashed changes
+            "id": "3aea3457e3009bf1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -136,20 +107,12 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "04cf51ef0171667c",
-=======
-            "id": "0b0ab821697fed95",
->>>>>>> Stashed changes
+            "id": "3af3625eb3aee17a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "университет/ктп/посты/17-02-24 международные сборы.md",
-=======
-                "file": "собрание с заказчиком.md",
->>>>>>> Stashed changes
+                "file": "университет/ио/01-03-24 методы отыскания начального базисного допустимого решения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,31 +124,19 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "1b83a63c4bbe2a58",
-=======
-            "id": "1f927fed95978f56",
->>>>>>> Stashed changes
+            "id": "a830b20824636ef2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "университет/ктп/посты/17-02-24 международные сборы.md",
-=======
-                "file": "собрание с заказчиком.md",
->>>>>>> Stashed changes
+                "file": "университет/ио/01-03-24 методы отыскания начального базисного допустимого решения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "1f17b8483504adb9",
-=======
-            "id": "1f751f62d64da71a",
->>>>>>> Stashed changes
+            "id": "51a7ed1cbaa75b22",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -196,11 +147,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "bcb599866d4af4e5",
-=======
-            "id": "cda01d5e3c325a85",
->>>>>>> Stashed changes
+            "id": "f7e3351929368531",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -212,20 +159,12 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "88f5ad4d78d2336b",
-=======
-            "id": "ec64f8e511b3f248",
->>>>>>> Stashed changes
+            "id": "2d7ee49aee2e5e1f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "университет/ктп/посты/17-02-24 международные сборы.md"
-=======
-                "file": "собрание с заказчиком.md"
->>>>>>> Stashed changes
+                "file": "университет/ио/01-03-24 методы отыскания начального базисного допустимого решения.md"
               }
             }
           }
@@ -247,17 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "356083f86bdd4faf",
+  "active": "9c4be0dbd10aedb1",
   "lastOpenFiles": [
-    "университет/ктп/посты/17-02-24 международные сборы.md",
-    "университет/ктп/гранты",
-    "стажировка",
-    "университет/тппо"
-=======
-  "active": "fcf299b4afed9974",
-  "lastOpenFiles": [
-    "университет/ио/09-02-24 введение.md"
->>>>>>> Stashed changes
+    "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
+    "университет/ио/01-03-24 методы отыскания начального базисного допустимого решения.md",
+    "университет/пис/что поправить.md",
+    "университет/пис"
   ]
 }
