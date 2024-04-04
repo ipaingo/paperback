@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "84203b19a5d058a5",
+        "id": "6e16c1d91137cc51",
         "type": "tabs",
         "children": [
           {
-            "id": "c821648b8839dca4",
+            "id": "eb6cb7639f370bb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "университет/ксзи/отчет 1.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "db9407808ba79114",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "университет/ксзи/отчет 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "университет/ксзи/отчет 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "университет/ктп/02-04-24 Тула.md"
+                "file": "университет/ксзи/отчет 1.md"
               }
             }
           }
@@ -161,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaf9d683be1d0822",
+  "active": "eb6cb7639f370bb1",
   "lastOpenFiles": [
     "университет/ктп/02-04-24 Тула.md",
     "университет/ио/29-03-2024 метод потенциалов в решении транспортной задачи.md",
