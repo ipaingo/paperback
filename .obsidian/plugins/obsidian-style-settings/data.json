@@ -9,8 +9,6 @@
   "blue-topaz-theme@@text-highlight-bg-h-dark": 210,
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
   "blue-topaz-theme@@font-text-theme": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Microsoft YaHei Light\", sans-serif",
-  "blue-topaz-theme@@font-family-h5": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Microsoft YaHei Light\", sans-serif",
-  "blue-topaz-theme@@font-family-h6": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Microsoft YaHei Light\", sans-serif",
   "blue-topaz-theme@@font-family-folder-file-title": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Microsoft YaHei Light\", sans-serif",
   "blue-topaz-theme@@text-highlight-bg-h-light": 210,
   "blue-topaz-theme@@text-highlight-bg-s-light": 100,
