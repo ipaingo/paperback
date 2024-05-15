@@ -4,15 +4,24 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "53f6a4c4a0963c20",
         "type": "tabs",
         "children": [
           {
             "id": "7feb80c8fd27bf22",
+=======
+        "id": "db6bf2b988585488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fa8355c3c3ed265",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "всякое/lumarian language.md",
                 "mode": "source",
                 "source": true
@@ -25,13 +34,25 @@
         "id": "b78191828da8d26e",
         "type": "tabs",
         "children": [
+=======
+                "file": "университет/ксзи/отчет 2.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+>>>>>>> Stashed changes
           {
             "id": "9fe47b5bb4ffa229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "всякое/lumarian language.md",
+=======
+                "file": "университет/ксзи/отчет 1.md",
+>>>>>>> Stashed changes
                 "mode": "preview",
                 "source": true
               }
@@ -87,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "db9407808ba79114",
@@ -112,7 +132,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "всякое/lumarian language.md",
+=======
+                "file": "университет/ксзи/отчет 2.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +153,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "всякое/lumarian language.md",
+=======
+                "file": "университет/ксзи/отчет 2.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +192,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "всякое/lumarian language.md"
+=======
+                "file": "университет/ксзи/отчет 2.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -186,6 +218,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "7feb80c8fd27bf22",
   "lastOpenFiles": [
     "всякое/System.md",
@@ -206,19 +239,29 @@
     "университет/ио/12-04-24 целочисленное линейное программирование.md",
     "университет/уитс",
     "университет/ио/12-04 1.png",
+=======
+  "active": "7fa8355c3c3ed265",
+  "lastOpenFiles": [
+    "всякое/symbols.pdf",
+    "университет/ксзи/отчет 2.md",
+    "всякое/символы.md",
+    "университет/ксзи/отчет 1.md",
+    "университет/ио/03-05-24 задача о распределении ресурсов.md",
+    "Pasted image 20240503095714.png",
+    "университет/ио/вложения",
+    "университет/ио/12-04-24 целочисленное линейное программирование.md",
+    "университет/ио/вложения/12-04 1.png",
+>>>>>>> Stashed changes
     "университет/ио/09-02-24 приведение задачи к шаблону.md",
     "университет/ио/09-02-24 введение.md",
-    "университет/ксзи/отчет 1.md",
     "университет/ио/29-03-24 метод потенциалов в решении транспортной задачи.md",
     "университет/ио/05-04-24 алгоритм решения транспортной задачи.md",
     "университет/ио/15-03-24 алгебраические основы симплексного метода.md",
     "университет/ио/22-03-24 преобразование Жордана-Гаусса.md",
-    "университет/ио/05-04 1.png",
+    "университет/ио/вложения/05-04 1.png",
     "университет/ктп/02-04-24 Тула.md",
-    "всякое/symbols.pdf",
     "университет/ктп/посты/26-03-24 шсм 3.0.md",
     "университет/ио/16-02-24 алгоритм прямого симплексного метода.md",
-    "всякое/символы.md",
     "университет/ио/01-03-24 методы отыскания начального базисного допустимого решения.md",
     "университет/пис/что поправить 2.md"
   ]
