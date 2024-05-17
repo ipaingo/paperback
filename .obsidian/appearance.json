@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "styles",
     "notation-colour-blocks",
@@ -7,7 +7,7 @@
   ],
   "translucency": false,
   "cssTheme": "Blue Topaz",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "accentColor": "#669bf0",
   "baseFontSizeAction": true
 }
