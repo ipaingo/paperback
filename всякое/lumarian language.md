@@ -2,7 +2,7 @@
 ## Official Word List
 
 
-Total 123 words from the official word list in the book at [[1]](http://tokipona.org/).
+Total 123 words from the official word list in the book at (http://tokipona.org/).
 
 a
 

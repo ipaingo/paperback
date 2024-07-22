@@ -1,2 +1,0 @@
-# paperback
- obsidian vault.
