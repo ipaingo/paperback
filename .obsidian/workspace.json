@@ -11,8 +11,12 @@
             "id": "2a89f8a7787aa4ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ктп/инструкция/люди.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ктп/инструкция/люди.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ктп/инструкция/люди.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ктп/инструкция/люди.md"
+              }
             }
           }
         ]
@@ -160,5 +168,9 @@
     }
   },
   "active": "2a89f8a7787aa4ea",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ктп/инструкция/маленькие советы.md",
+    "ктп/инструкция/люди.md",
+    "ктп/инструкция"
+  ]
 }
