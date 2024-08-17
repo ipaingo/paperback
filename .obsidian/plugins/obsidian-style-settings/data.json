@@ -13,5 +13,6 @@
   "blue-topaz-theme@@text-highlight-bg-h-light": 210,
   "blue-topaz-theme@@text-highlight-bg-s-light": 100,
   "blue-topaz-theme@@text-highlight-bg-l-light": 80,
-  "blue-topaz-theme@@text-highlight-bg-a-light": 0.8
+  "blue-topaz-theme@@text-highlight-bg-a-light": 0.8,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default"
 }

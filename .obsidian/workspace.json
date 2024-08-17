@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ктп/инструкция/люди.md",
+                "file": "ктп/инструкция/какой движ есть в ктп и как ему поспособствовать.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ктп/инструкция/люди.md",
+                "file": "ктп/инструкция/какой движ есть в ктп и как ему поспособствовать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ктп/инструкция/люди.md",
+                "file": "ктп/инструкция/какой движ есть в ктп и как ему поспособствовать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ктп/инструкция/люди.md"
+                "file": "ктп/инструкция/какой движ есть в ктп и как ему поспособствовать.md"
               }
             }
           }
@@ -170,7 +170,11 @@
   "active": "2a89f8a7787aa4ea",
   "lastOpenFiles": [
     "ктп/инструкция/маленькие советы.md",
+    "ктп/инструкция/какой движ есть в ктп и как ему поспособствовать.md",
+    "ктп/инструкция/что происходит.md",
+    "ктп/инструкция/общая папка.md",
     "ктп/инструкция/люди.md",
+    "ктп/инструкция/Pasted image 20240806155254.png",
     "ктп/инструкция"
   ]
 }
