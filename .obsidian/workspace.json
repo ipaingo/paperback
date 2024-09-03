@@ -11,9 +11,11 @@
             "id": "2a89f8a7787aa4ea",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "университет/философия/image.jpeg"
+                "file": "университет/архитектура/архитектура 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "университет/философия/image.jpeg",
+                "file": "университет/архитектура/архитектура 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "университет/философия/image.jpeg",
+                "file": "университет/архитектура/архитектура 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "университет/философия/image.jpeg"
+                "file": "университет/архитектура/архитектура 1.md"
               }
             }
           }
@@ -165,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1105a8dbea6f71a",
+  "active": "2a89f8a7787aa4ea",
   "lastOpenFiles": [
+    "университет/архитектура/архитектура предприятий.md",
+    "университет/архитектура/архитектура 1.md",
+    "университет/список дисциплин.md",
+    "университет/философия/image.jpeg",
     "университет/философия/image 2.jpeg",
     "университет/философия/image 1.jpeg",
     "ктп/инструкция/какой движ есть в ктп и как ему поспособствовать.md",
