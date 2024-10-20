@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "что-то типа срмки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34e4f7a6ab01f9c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "предметная область.md",
+                "file": "университет/список дисциплин.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "предметная область.md",
+                "file": "университет/список дисциплин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "предметная область.md",
+                "file": "университет/список дисциплин.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "предметная область.md"
+                "file": "университет/список дисциплин.md"
               }
             }
           }
@@ -172,7 +159,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34e4f7a6ab01f9c5",
+  "active": "be0cc4b0d6ed1b4e",
   "lastOpenFiles": [
     "что-то типа срмки.md",
     "предметная область.md",
