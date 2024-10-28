@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "университет/список дисциплин.md",
+                "file": "что-то типа срмки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "список дисциплин"
+              "title": "что-то типа срмки"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "университет/список дисциплин.md",
+                "file": "что-то типа срмки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for список дисциплин"
+              "title": "Backlinks for что-то типа срмки"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "университет/список дисциплин.md",
+                "file": "что-то типа срмки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from список дисциплин"
+              "title": "Outgoing links from что-то типа срмки"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "университет/список дисциплин.md"
+                "file": "что-то типа срмки.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of список дисциплин"
+              "title": "Outline of что-то типа срмки"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "be0cc4b0d6ed1b4e",
   "lastOpenFiles": [
-    "университет/философия/пантеизм.md",
-    "университет/список дисциплин.md",
-    "что-то типа срмки.md",
     "предметная область.md",
+    "что-то типа срмки.md",
+    "университет/список дисциплин.md",
+    "университет/философия/пантеизм.md",
     "университет/уитс/уитс 4 создание базы конфигурационных единиц CMDB.md",
     "университет/уитс/уитс 2 создание каталога ИТ-сервисов.md",
     "университет/уитс/уитс 1 описание предметной области.md",
