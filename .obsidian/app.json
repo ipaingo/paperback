@@ -5,7 +5,7 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A5",
+    "pageSize": "A3",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
